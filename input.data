@@ -1,0 +1,5 @@
+7,81,2,3,4,5,6,7,8,6
+append 100
+append 2
+removeTail
+filterLarger 6

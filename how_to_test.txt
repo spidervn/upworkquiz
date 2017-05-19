@@ -1,0 +1,13 @@
+Input.data:
+- 1 st is initalize list of integer, sperated by comma
+- Lines after 1st, has one of three format: 
+    append <<number>>
+    removeTail
+    filterLarger <<number>>
+
+Each format run a specific method of LinkedList, then print output.
+
+Executing test, run:
+   ./run_test.sh
+
+
